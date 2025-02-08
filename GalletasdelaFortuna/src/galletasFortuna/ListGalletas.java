@@ -8,7 +8,6 @@ public class ListGalletas {
             "Si te caes 7 veces, levántate 8", "Enfócate en las cosas buenas y positivas de tu vida tendrás mucha más energía para cumplir tus metas y tus sueños",
             "¡No solo pienses, actúa!","Tu mente es tu mayor activo."
     };
-    Random random = new Random();
-    int indice = random.nextInt(Cookies.length);
+
 
 }
